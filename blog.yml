@@ -1,0 +1,20 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch: {}
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "[ADD YOUR RSS FEED URL — e.g. https://dev.to/feed/bbnaik2003 or https://medium.com/feed/@bbnaik2003]"
+          max_post_count: 5
