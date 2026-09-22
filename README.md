@@ -1,183 +1,338 @@
-<div align="center">
+# 👋 Hi, I'm B B Naik
 
-<img src="assets/banner.png" alt="B B Naik Banner" width="100%"/>
+### 💻 Python Full Stack Developer | Backend Developer | CSE Engineer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=fadeIn"/>
+I'm a Computer Science Engineering graduate focused on building **scalable web applications, REST APIs, and practical software solutions**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=B98EFF&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Engineer;AI+%2B+IoT+Builder;Open+Source+Contributor" alt="Typing SVG"/>
+Currently working as a **Python Full Stack Intern**, strengthening my skills in **Python, Django, Django REST Framework, SQL, React.js, and backend development**.
 
-<a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bbnaik589@gmail.com"><img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+917760475349"><img src="https://img.shields.io/badge/Call-6A0DAD?style=for-the-badge&logo=phone&logoColor=white"/></a>
-<a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</div>
+I enjoy solving programming problems, building real-world projects, and continuously learning new technologies.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```python
-class BBNaik:
-    def __init__(self):
-        self.role = "Python Developer"
-        self.focus = ["Full Stack", "AI/IoT", "GenAI"]
-        self.status = "Open to SDE Internships"
-        self.location = "India"
+* 🎓 B.E. in Computer Science & Engineering
+* 💼 Python Full Stack Intern
+* 🌱 Currently learning **Django, DRF, REST APIs & Advanced SQL**
+* 💻 Interested in **Backend & Full Stack Development**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🗄️ Working with **MySQL & MongoDB**
+* 🤖 Exploring **Generative AI & AI/ML**
+* 🏆 250+ coding problems practiced
+* 📍 Bengaluru / Karnataka, India
+* 🎯 Open to **Software Engineering / Backend / Full Stack opportunities**
 
-    def philosophy(self):
-        return "Consistency beats intensity."
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+* Django
+* Django REST Framework
+* REST APIs
+* Node.js
+* Express.js
+* Object-Oriented Programming
+* API Development
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* TypeScript
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+* MySQL
+* MongoDB
+* SQL
+* Database Design
+* CRUD Operations
+* Query Optimization
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+* TensorFlow
+* Keras
+* Edge Impulse
+* Generative AI
+* Audio Classification
+* Machine Learning
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+</p>
+
+* Git & GitHub
+* VS Code
+* Postman
+* Firebase
+* MongoDB Compass
+* MySQL Workbench
+
+---
+
+# 💼 Internship
+
+### 🏢 Python Full Stack Intern — Dhee Coding Lab
+
+**Focus Areas:**
+
+* Python Full Stack Development
+* Django & Django REST Framework
+* MySQL & SQL
+* REST API Development
+* Backend Development
+* Generative AI
+* Problem Solving
+* LeetCode & HackerRank Practice
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Store Rating App
+
+**Tech:** Python | Django | REST APIs | MySQL | HTML | CSS | JavaScript
+
+A web application for managing and rating stores with backend APIs and database integration.
+
+🔗 **Repository:**
+https://github.com/bbnaik2003/store-rating-app
+
+---
+
+## 📊 Customer Behavior Analysis
+
+**Tech:** Python | Pandas | NumPy | Matplotlib | Seaborn | Machine Learning
+
+Analyzed customer data to identify purchasing patterns, customer segments, and behavioral trends using data analysis and visualization techniques.
+
+🔗 **Repository:**
+https://github.com/bbnaik2003/Customer_Behavior_Analysis
+
+---
+
+## 🌳 AI Guard — Environmental Crime Detection
+
+**Tech:** Python | AI/ML | Edge Impulse | IoT | ESP32/Arduino | LoRa
+
+An AI-powered IoT system designed to detect **tree cutting and animal hunting sounds** and send alerts to forest authorities.
+
+* 🎙️ Audio classification using machine learning
+* 📡 LoRa-based alert communication
+* 🔋 Solar-powered IoT architecture
+* 🤖 Edge AI sound detection
+
+🔗 **Repository:**
+https://github.com/bbnaik2003/Intelligent-IoT-Driven-AI-Framework-for-Real-Time-Detection-and-Prevention-of-Environmental-Crimes
+
+---
+
+## ✈️ SmartTour — Intelligent Travel Guide
+
+**Tech:** React.js | TypeScript | Vite | Tailwind CSS | Google Maps API
+
+A smart travel planning application designed to simplify group trips.
+
+* 🗺️ Tourist-focused maps
+* 📍 Travel recommendations
+* 💰 Expense splitting
+* 👥 Group trip management
+* ⚡ Interactive React interface
+
+🏆 Developed for **SAP Hackfest 2025**
+
+---
+
+## 💳 College Fee Payment System
+
+**Tech:** HTML | CSS | JavaScript | PHP/MySQL
+
+A web-based system for managing student fee payments and records.
+
+🔗 **Repository:**
+https://github.com/bbnaik2003/CollegeFeesWebApp
+
+---
+
+# 🧠 Problem Solving
+
+I regularly practice programming and DSA problems on:
+
+<p>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</p>
+
+**Focus Areas:**
+
+`Arrays` • `Strings` • `Hashing` • `Recursion` • `Sorting` • `Searching` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `SQL`
+
+---
+
+# 📜 Certifications
+
+* 🏅 Data Structures and Applications — CodeChef
+* 🏅 Analysis and Design of Algorithms — CodeChef
+* ☁️ AWS Cloud Practitioner Essentials — AWS
+* 🌐 Introduction to IoT — NPTEL
+* 💻 Learn C++ Programming — Udemy
+* 🗄️ SQL Certificate — HackerRank
+
+---
+
+# 🏆 Achievements & Activities
+
+* 🧩 Practiced **250+ coding problems**
+* 🏆 Participated in **SAP Hackfest 2025**
+* 👨‍💻 Technical Coordinator
+* 🎓 Conducted technical workshops for **100+ students**
+* 📚 Active GitHub contributor
+* 🔬 Worked on AI + IoT environmental monitoring research
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bbnaik2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbnaik2003&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bbnaik2003&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bbnaik2003/bbnaik2003/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbnaik2003&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/bbnaik2003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bbnaik/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Currently Learning
+
+```text
+Python
+  ├── Django
+  ├── Django REST Framework
+  ├── REST APIs
+  └── Backend Architecture
+
+Databases
+  ├── SQL
+  ├── MySQL
+  └── MongoDB
+
+Development
+  ├── React.js
+  ├── JavaScript
+  └── Full Stack Development
+
+Problem Solving
+  ├── Data Structures
+  ├── Algorithms
+  └── Competitive Programming
+
+AI
+  ├── Generative AI
+  ├── Machine Learning
+  └── AI-powered Applications
 ```
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ Developer Mindset
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe the best way to learn technology is by **building real projects and solving real problems**.
+
+---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,express,mongodb,mysql,git,github,docker,aws,tensorflow,vscode&theme=dark" />
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something useful together 🚀**
+
 </p>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-6A0DAD?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6A0DAD?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6A0DAD?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-6A0DAD?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bbnaik2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B98EFF&icon_color=B98EFF"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbnaik2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B98EFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbnaik2003&theme=tokyonight&hide_border=true&background=0D1117&ring=B98EFF&fire=B98EFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbnaik2003&theme=react-dark&bg_color=0D1117&color=B98EFF&line=B98EFF&point=ffffff"/>
-</p>
-
----
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%"/>
-</p>
-
-> Isometric 3D render of your commit calendar — auto-generated daily by `.github/workflows/profile-3d-contrib.yml`.
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/bbnaik2003/bbnaik2003/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 📈 Metrics Dashboard
-
-<p align="center">
-  <img src="assets/metrics.svg" alt="GitHub Metrics"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🌳 AI Forest Guard
-Detects illegal tree cutting using AI, computer vision, and IoT sensors.
-
-`React` `Python` `IoT` `TensorFlow`
-
-[🔗 View Repo]([ADD LINK])
-
-</td>
-<td width="50%">
-
-### 🧭 SmartTour
-An intelligent travel-planning platform with personalized recommendations.
-
-`React` `Node.js` `MongoDB`
-
-[🔗 View Repo]([ADD LINK])
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Customer Behavior Analysis
-Data analysis and visualization of customer purchase patterns to drive business insights.
-
-`Python` `Pandas` `Matplotlib`
-
-[🔗 View Repo]([ADD LINK])
-
-</td>
-<td width="50%">
-
-### 🎓 College Fee Management System
-Full-stack system to manage and automate student fee collection and records.
-
-`Java` `MySQL` `Spring Boot`
-
-[🔗 View Repo]([ADD LINK])
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-**[Role] — [Company Name]** *(Month Year – Month Year)*
-- [Add a bullet describing an impactful contribution]
-- [Add a bullet with a measurable result]
-
----
-
-## 📜 Certifications
-
-- [ ] [ADD CERTIFICATION NAME] — [Issuer]
-- [ ] [ADD CERTIFICATION NAME] — [Issuer]
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="[ADD LEETCODE URL]"><img src="https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="[ADD CODECHEF URL]"><img src="https://img.shields.io/badge/CodeChef-6A0DAD?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="[ADD HACKERRANK URL]"><img src="https://img.shields.io/badge/HackerRank-6A0DAD?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="[ADD CODEFORCES URL]"><img src="https://img.shields.io/badge/Codeforces-6A0DAD?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="[ADD GFG URL]"><img src="https://img.shields.io/badge/GeeksforGeeks-6A0DAD?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=bbnaik2003&color=6A0DAD&style=for-the-badge)
-
-*"Consistency beats intensity."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
-
-</div>
