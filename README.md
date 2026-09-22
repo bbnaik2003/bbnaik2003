@@ -2,115 +2,85 @@
 
 ### 💻 Python Full Stack Developer | Backend Developer | CSE Engineer
 
-I'm a Computer Science Engineering graduate focused on building **scalable web applications, REST APIs, and practical software solutions**.
+I'm a Computer Science Engineering student focused on building **backend systems, REST APIs, full-stack applications, and data-driven solutions**.
 
-Currently working as a **Python Full Stack Intern**, strengthening my skills in **Python, Django, Django REST Framework, SQL, React.js, and backend development**.
-
-I enjoy solving programming problems, building real-world projects, and continuously learning new technologies.
+Currently developing my skills in **Python, Django, Django REST Framework, SQL, MySQL, React.js, and Generative AI**.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.E. in Computer Science & Engineering
-* 💼 Python Full Stack Intern
-* 🌱 Currently learning **Django, DRF, REST APIs & Advanced SQL**
-* 💻 Interested in **Backend & Full Stack Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🗄️ Working with **MySQL & MongoDB**
-* 🤖 Exploring **Generative AI & AI/ML**
+* 🎓 B.E. Computer Science & Engineering — Alva's Institute of Engineering and Technology
+* 💼 Python Full Stack with Generative AI Intern
+* 🐍 Focused on Python & Backend Development
+* ⚙️ Building applications using Django & REST APIs
+* 🗄️ Practicing SQL & MySQL
+* ⚛️ Learning React.js & Full Stack Development
+* 🧠 Practicing DSA and problem solving
+* 🤖 Exploring Generative AI and Machine Learning
 * 🏆 250+ coding problems practiced
-* 📍 Bengaluru / Karnataka, India
-* 🎯 Open to **Software Engineering / Backend / Full Stack opportunities**
+* 📍 Karnataka, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
 </p>
 
-* Django
-* Django REST Framework
-* REST APIs
-* Node.js
-* Express.js
-* Object-Oriented Programming
-* API Development
+`Django` `Django REST Framework` `REST APIs` `Node.js` `Express.js`
 
-### 🎨 Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* TypeScript
+`React.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS`
 
-### 🗄️ Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-* MySQL
-* MongoDB
-* SQL
-* Database Design
-* CRUD Operations
-* Query Optimization
+`SQL` `MySQL` `MongoDB` `Database Management`
 
-### 🤖 AI / Machine Learning
+### AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-* TensorFlow
-* Keras
-* Edge Impulse
-* Generative AI
-* Audio Classification
-* Machine Learning
+`Generative AI` `TensorFlow` `Keras` `Edge Impulse` `Machine Learning`
 
-### 🔧 Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
-
-* Git & GitHub
-* VS Code
-* Postman
-* Firebase
-* MongoDB Compass
-* MySQL Workbench
 
 ---
 
-# 💼 Internship
+# 💼 Experience
 
-### 🏢 Python Full Stack Intern — Dhee Coding Lab
+### Python Full Stack with Generative AI Intern
 
-**Focus Areas:**
+Currently gaining practical experience in:
 
 * Python Full Stack Development
 * Django & Django REST Framework
-* MySQL & SQL
 * REST API Development
+* MySQL & SQL
 * Backend Development
 * Generative AI
 * Problem Solving
@@ -120,114 +90,87 @@ I enjoy solving programming problems, building real-world projects, and continuo
 
 # 🚀 Featured Projects
 
-## 🛒 Store Rating App
+### 🌳 AI Guard — Environmental Crime Detection
 
-**Tech:** Python | Django | REST APIs | MySQL | HTML | CSS | JavaScript
+**Python • AI/ML • IoT • Edge Impulse • Arduino • LoRa**
 
-A web application for managing and rating stores with backend APIs and database integration.
-
-🔗 **Repository:**
-https://github.com/bbnaik2003/store-rating-app
+AI + IoT based system for detecting **illegal tree cutting and animal hunting sounds** and sending real-time alerts to forest authorities.
 
 ---
 
-## 📊 Customer Behavior Analysis
+### ✈️ SmartTour — Intelligent Travel Guide
 
-**Tech:** Python | Pandas | NumPy | Matplotlib | Seaborn | Machine Learning
+**React.js • TypeScript • Vite • Tailwind CSS • Google Maps API**
 
-Analyzed customer data to identify purchasing patterns, customer segments, and behavioral trends using data analysis and visualization techniques.
+Smart travel planning platform with **tourist recommendations, interactive maps, group trips, and expense splitting**.
 
-🔗 **Repository:**
-https://github.com/bbnaik2003/Customer_Behavior_Analysis
-
----
-
-## 🌳 AI Guard — Environmental Crime Detection
-
-**Tech:** Python | AI/ML | Edge Impulse | IoT | ESP32/Arduino | LoRa
-
-An AI-powered IoT system designed to detect **tree cutting and animal hunting sounds** and send alerts to forest authorities.
-
-* 🎙️ Audio classification using machine learning
-* 📡 LoRa-based alert communication
-* 🔋 Solar-powered IoT architecture
-* 🤖 Edge AI sound detection
-
-🔗 **Repository:**
-https://github.com/bbnaik2003/Intelligent-IoT-Driven-AI-Framework-for-Real-Time-Detection-and-Prevention-of-Environmental-Crimes
+🏆 SAP Hackfest 2025 Project
 
 ---
 
-## ✈️ SmartTour — Intelligent Travel Guide
+### 📊 Customer Behavior Analysis
 
-**Tech:** React.js | TypeScript | Vite | Tailwind CSS | Google Maps API
+**Python • SQL • Pandas • Power BI • Data Analytics**
 
-A smart travel planning application designed to simplify group trips.
+End-to-end data analytics project analyzing customer purchasing behavior, revenue patterns, subscriptions, discounts, and customer segments.
 
-* 🗺️ Tourist-focused maps
-* 📍 Travel recommendations
-* 💰 Expense splitting
-* 👥 Group trip management
-* ⚡ Interactive React interface
-
-🏆 Developed for **SAP Hackfest 2025**
+🔗 [View Repository](https://github.com/bbnaik2003/Customer_Behavior_Analysis)
 
 ---
 
-## 💳 College Fee Payment System
+### 🛒 StoreRate — Full Stack Store Rating Platform
 
-**Tech:** HTML | CSS | JavaScript | PHP/MySQL
+**React.js • Node.js • Express.js • PostgreSQL • JWT**
 
-A web-based system for managing student fee payments and records.
-
-🔗 **Repository:**
-https://github.com/bbnaik2003/CollegeFeesWebApp
+Full-stack application with **role-based access control, JWT authentication, store management, user ratings, filtering, and REST APIs**.
 
 ---
 
-# 🧠 Problem Solving
+# 🧠 Coding Profiles
 
-I regularly practice programming and DSA problems on:
+<p align="center">
 
-<p>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/4al22cs021/">
+<img src="https://img.shields.io/badge/LeetCode-4al22cs021-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<a href="https://www.hackerrank.com/profile/bbnaik589">
+<img src="https://img.shields.io/badge/HackerRank-bbnaik589-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.codechef.com/users/al_4al22cs021">
+<img src="https://img.shields.io/badge/CodeChef-al__4al22cs021-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+
 </p>
 
-**Focus Areas:**
+### 🎯 Current Problem-Solving Focus
 
-`Arrays` • `Strings` • `Hashing` • `Recursion` • `Sorting` • `Searching` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `SQL`
+`Arrays` • `Strings` • `Hashing` • `Sorting` • `Searching` • `Recursion` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `SQL`
+
+---
+
+# 🏆 Achievements
+
+* 🧩 Practiced **250+ coding problems**
+* 🏆 Participated in **SAP Hackfest 2025**
+* 🧑‍💻 Technical Coordinator
+* 👨‍🏫 Conducted technical workshops for **100+ students**
+* 🏅 HackerRank SQL (Basic) Certification
+* 📜 NPTEL — Introduction to IoT
+* 🔬 Presented research work on AI + IoT environmental monitoring
 
 ---
 
 # 📜 Certifications
 
-* 🏅 Data Structures and Applications — CodeChef
-* 🏅 Analysis and Design of Algorithms — CodeChef
-* ☁️ AWS Cloud Practitioner Essentials — AWS
-* 🌐 Introduction to IoT — NPTEL
-* 💻 Learn C++ Programming — Udemy
-* 🗄️ SQL Certificate — HackerRank
-
----
-
-# 🏆 Achievements & Activities
-
-* 🧩 Practiced **250+ coding problems**
-* 🏆 Participated in **SAP Hackfest 2025**
-* 👨‍💻 Technical Coordinator
-* 🎓 Conducted technical workshops for **100+ students**
-* 📚 Active GitHub contributor
-* 🔬 Worked on AI + IoT environmental monitoring research
+* 🏅 HackerRank — SQL (Basic)
+* 🏅 CodeChef — Data Structures and Applications
+* 🏅 CodeChef — Analysis and Design of Algorithms
+* ☁️ AWS — Cloud Practitioner Essentials
+* 🌐 NPTEL — Introduction to IoT
+* 🤖 Deep Learning Specialization — DeepLearning.AI
+* 💻 C++ Programming — Udemy
 
 ---
 
@@ -253,7 +196,7 @@ I regularly practice programming and DSA problems on:
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -263,69 +206,61 @@ I regularly practice programming and DSA problems on:
 
 ---
 
-# 📈 GitHub Activity
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbnaik2003&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
 <a href="https://github.com/bbnaik2003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-BBNaik2003-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bbnaik/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-B%20B%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/4al22cs021/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/bbnaik589">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/al_4al22cs021">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Currently Learning
+# 📈 My Development Journey
 
 ```text
 Python
-  ├── Django
-  ├── Django REST Framework
-  ├── REST APIs
-  └── Backend Architecture
-
-Databases
-  ├── SQL
-  ├── MySQL
-  └── MongoDB
-
-Development
-  ├── React.js
-  ├── JavaScript
-  └── Full Stack Development
-
-Problem Solving
-  ├── Data Structures
-  ├── Algorithms
-  └── Competitive Programming
-
-AI
-  ├── Generative AI
-  ├── Machine Learning
-  └── AI-powered Applications
+   ↓
+Django + Django REST Framework
+   ↓
+REST API Development
+   ↓
+SQL + MySQL
+   ↓
+React.js
+   ↓
+Full Stack Development
+   ↓
+Generative AI
+   ↓
+Real-World Projects
 ```
 
 ---
 
 ## ⚡ Developer Mindset
 
-> **Learn → Build → Break → Debug → Improve → Repeat**
+> **Learn → Build → Debug → Improve → Repeat**
 
-I believe the best way to learn technology is by **building real projects and solving real problems**.
+I believe consistent practice and building real-world projects are the best ways to become a better developer.
 
 ---
 
@@ -333,6 +268,6 @@ I believe the best way to learn technology is by **building real projects and so
 
 ### ⭐ Thanks for visiting my profile!
 
-**Let's build something useful together 🚀**
+**Let's build something impactful 🚀**
 
 </p>
